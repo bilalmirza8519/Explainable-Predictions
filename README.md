@@ -1,5 +1,5 @@
 # Explainable-Predictions
-How to interpret black-box predictions
+This repository is created for interpreting black-box predictions by using a simple example from cardiovascular proteomics. We try to interpret the contributions of 5 key post-translation modifictions (PTMs) to predict cardiac phenotype. 
 
 Please cite the original papers if you are using LIME or SHAP codes for explaining predictions
 
